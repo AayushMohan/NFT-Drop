@@ -58,6 +58,9 @@ const NFTDropPage = () => {
         </div>
 
         {/* Mint Button */}
+        <button className="mt-10 h-16 w-full rounded-full bg-red-600 font-bold text-white">
+          Mint NFT (0.01 ETH)
+        </button>
       </div>
     </div>
   )
